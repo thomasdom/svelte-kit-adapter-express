@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "allowJs": true,
+    "checkJs": true,
+    "noEmit": true,
+    "noImplicitAny": true,
+    "allowSyntheticDefaultImports": true,
+    "moduleResolution": "node",
+    "module": "es2020",
+    "baseUrl": "."
+  },
+  "include": ["index.js", "src/**/*.js", "ambient.d.ts"]
+}
